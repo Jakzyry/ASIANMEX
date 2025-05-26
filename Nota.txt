@@ -1,0 +1,5 @@
+https://es-la.facebook.com/login/device-based/regular/login/
+
+https://web.whatsapp.com/
+
+https://www.instagram.com/accounts/login/?source=auth_switcher&locale=es_ES
